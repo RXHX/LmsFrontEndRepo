@@ -1,0 +1,6 @@
+framework module Pods_LmsFrontEndTests {
+  umbrella header "Pods-LmsFrontEndTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
